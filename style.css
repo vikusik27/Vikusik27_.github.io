@@ -54,6 +54,9 @@
 .about .row .text-center{
 	border-right: 2px solid black;
 }
+.cars img{
+	box-shadow: 0 0 10px 2px;
+}
 
 .cars, .products, .feedback{
 	background: #353a40;
@@ -68,11 +71,11 @@
 }
 
 .team img{
-	border: 5px solid black;
+	border: 5px solid #353a40;
 }
 
 .teamDesc{
-	background: black;
+	background: #353a40;
 	color: white;
 }
 
